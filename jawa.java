@@ -12,11 +12,7 @@ public class jawa {
         System.out.println("Hello, World!");
         System.out.println("aku jawa woy!");
         System.out.println("belajar day 1!");
-
-        mainSecond(args);
-    }
-    
-    public static void mainSecond(String[] args) {
+        
         //variable (*note : artinya entar dulu :v)
         // = a reusable container for a value 
         //   a variable behaves as if it was the value it contains
