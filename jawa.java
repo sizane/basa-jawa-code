@@ -51,7 +51,7 @@ public class jawa {
             System.out.println("lu sapa njir kalo gk mahasiswa");
         }
 
-        String nama = "ujang";
+        String nama = "ujang ganteng"; //ini untuk kata atau kalimat yang lebih dari 1 huruf
         System.out.println("nama lu " + nama + " ya?");
     }
 }
